@@ -1,4 +1,4 @@
 # first-demo
 This is my first Git Repository.
 <br>
-Author-prakash Singh
+Author-prakash Singh (Web developer)
